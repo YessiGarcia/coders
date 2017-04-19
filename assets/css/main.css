@@ -1,0 +1,72 @@
+img{
+	width: 200px;
+	height: 200px;
+}
+
+hr{
+	margin-right: 60%;
+	margin-left: 10%;
+	height: 5px;
+	background-color: brown;
+}
+
+.imagen{
+	width: 200px;
+	height: 200px;
+	margin:20px;
+	padding: 10px;
+	position: absolute;
+}
+
+.contenedor{
+	width: 1200Px;
+	height: 600px;
+	position: relative;
+}
+
+.uno{
+	top: 0;
+	left: 10%;
+	background-color: red;
+}
+ .dos{
+ 	top: 0;
+ 	right: 10%;
+ 	background-color: green;
+ }
+
+ .tres{
+ 	top: 0;
+ 	left: 40%;
+ 	background-color: blue;
+ }
+
+ .cuatro{
+ 	bottom: 0;
+ 	left: 40%;
+ 	background-color: purple;
+ }
+
+ .cinco{
+ 	bottom: 0;
+ 	left: 10%;
+ 	background-color: pink;
+
+ }
+
+ .seis {
+ 	bottom: 0;
+ 	right: 10%;
+ 	background-color: yellow;
+ }
+
+ .nombre{
+ 	position: absolute;
+ 	float: right;
+ 	top: 80%;
+ 	background: no-repeat;
+ 	color: yellow;
+ 	font-size: 25px
+ 	text-shadow: 1px 1px 1px black;
+ }
+
